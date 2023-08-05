@@ -4,7 +4,7 @@ Steam AppID Changer es un sencillo script de utilidad que te permite cambiar el 
 
 You can also read this in [English](https://github.com/Kioraga/steam-appid-changer/blob/main/README.md).
 
-## Getting Started
+## Primeros pasos
 
 Para utilizar el Steam AppID Changer, sigue estos pasos:
 
