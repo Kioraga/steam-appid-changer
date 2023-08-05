@@ -1,1 +1,1 @@
-# appid-changer
+# Steam AppID changer
